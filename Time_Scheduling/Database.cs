@@ -4,6 +4,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data;
+using Microsoft.Data.SqlClient;
+
 namespace Time_Scheduling
 {
     public static class Database
